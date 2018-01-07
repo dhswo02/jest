@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/dhswo02/study-react.svg?branch=master)](https://travis-ci.org/dhswo02/study-react)
 #깃 스터디
 ## h2
 ### h3
