@@ -1,3 +1,7 @@
+// abc를 출력한다.
 function a() {
-  console.log('abc');
+  output();
+}
+function output() {
+  return 'abc'
 }
